@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<list>
+  <file local="\Gui\3dgarro.cur" hash="bf961e66c1702577cd3d6526ea3f5e40" />
+  <file local="\Gui\Login_waitline14.i3Pack" hash="4be035f2168efcbb0b4c67eba79f36cd" />
+  <file local="\Gui\Card\cube_card.i3i" hash="90aea0c963f6b1e28dd5799024e1ae41" />
+  <file local="\Gui\Card\daily.i3i" hash="691e00bc35486338d2b0c1e5333a44d6" />
+  <file local="\Gui\Card\event_mission.i3i" hash="1d665b454eab4a9f497d389d7d4e5f47" />
+  <file local="\Gui\Card\item_card.i3i" hash="7ecd3372d9d5fd00c22d2d25458432dc" />
+  <file local="\Gui\Image\01.i3i" hash="ffaebf02dffd775b22e7423e2d10ec3d" />
+  <file local="\Gui\Image\02.i3i" hash="d7c8083054ebe198894c563913dca465" />
+  <file local="\Gui\Image\03.i3i" hash="9e0077cc7772154c1b864c9d92377b13" />
+  <file local="\Gui\Image\04.i3i" hash="c82e5e14f936ecfad0e757335b051f2c" />
+  <file local="\Gui\Image\05.i3i" hash="f192972293575e8033b6362222618dec" />
+  <file local="\Gui\Image\06.i3i" hash="68c813fb5b9a5cf00062399d3daf63ef" />
+  <file local="\Gui\Image\announce.xml" hash="e107984958af91d930b7a3dfc3d7bd4d" />
+  <file local="\Gui\Image\banner_01.i3i" hash="605b36af46ea4543c5211351e7e4e975" />
+  <file local="\Gui\Loading\FirstLoading.i3i" hash="e6b51802eb459b05ef81a93e7ba10e03" />
+  <file local="\Gui\Loading\Loading.i3i" hash="16651bce883eb39c8fd518ddb72ddc96" />
+  <file local="\Gui\Loading\Loading.i3Pack" hash="182d7f1246b693520721e64f881940b7" />
+  <file local="\Gui\Loading\Loading_01.bmp" hash="850b6a80bfb44c6ed618769990c58cab" />
+  <file local="\Gui\Loading\Loading_02.bmp" hash="850b6a80bfb44c6ed618769990c58cab" />
+  <file local="\Gui\Loading\Loading_03.bmp" hash="850b6a80bfb44c6ed618769990c58cab" />
+  <file local="\Gui\Loading\Loading_04.bmp" hash="850b6a80bfb44c6ed618769990c58cab" />
+  <file local="\Gui\Loading\Loading_05.bmp" hash="850b6a80bfb44c6ed618769990c58cab" />
+  <file local="\Gui\Loading\Login.i3i" hash="9a40033023b9438e440ea2ea147f4fef" />
+  <file local="\Gui\Loading\Login_V2.i3Pack" hash="662013ed52c3538c52b2cb2f000560cb" />
+  <file local="\Gui\Loading\Login_waitline14.i3Pack" hash="4be035f2168efcbb0b4c67eba79f36cd" />
+  <file local="\Gui\Loading\Login_waitline15.i3i" hash="61a68597596337e229f1db43267f683e" />
+  <file local="\Gui\Loading\Unpackloading.xml" hash="d64cca139786cfae9b1f41e0c9068876" />
+</list>

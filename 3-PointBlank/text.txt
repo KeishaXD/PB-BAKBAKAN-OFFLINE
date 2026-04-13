@@ -1,0 +1,42 @@
+=============================
+   Pointblank FPS Game Setup
+=============================
+
+Welcome to the Pointblank FPS Game installation wizard.
+Before you begin, please take a moment to review the information below:
+
+---------------------------
+System Requirements:
+---------------------------
+- Minimum System Requirements -
+  - OS: Windows 7 or later
+  - Processor: Intel Core i3 or AMD equivalent
+  - Memory: 4 GB RAM
+  - Graphics: NVIDIA GeForce GTX 660 / AMD Radeon HD 7850
+  - Storage: 20 GB available space
+
+- Recommended System Requirements -
+  - OS: Windows 10
+  - Processor: Intel Core i5 or AMD equivalent
+  - Memory: 8 GB RAM
+  - Graphics: NVIDIA GeForce GTX 970 / AMD Radeon R9 290
+  - Storage: 20 GB available space
+
+---------------------------
+Installation Instructions:
+---------------------------
+1. Click "Next" to begin the installation process.
+2. Follow the on-screen instructions to choose the installation directory.
+3. Click "Install" to start the installation.
+4. Once the installation is complete, click "Finish" to exit the wizard.
+
+---------------------------
+Important Notes:
+---------------------------
+- Ensure that your system meets the minimum requirements for optimal gameplay.
+- Disable any antivirus or security software temporarily during the installation.
+- For technical support, visit our website: www.yourgamewebsite.com/support
+
+---------------------------
+Thank you for choosing Pointblank FPS Game!
+---------------------------
