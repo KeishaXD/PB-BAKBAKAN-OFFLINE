@@ -10,8 +10,8 @@ echo  ==========================================
 echo ^|    POINT BLANK OFFLINE CONTROL SERVER   ^|
 echo  ==========================================
 echo ^|  Point Blank By : BAKBAKAN              ^|
-echo ^|  YT : Kedua Kolo                        ^|
-echo ^|  Github : KeishaXD                      ^|
+echo ^|  Tools By : YT : Kedua Kolo             ^|
+echo ^|           : Github : KeishaXD           ^|
 echo  ==========================================
 echo.
 echo   [1] Start Server
@@ -20,6 +20,11 @@ echo   [3] Edit ID Login
 echo   [4] Keluar
 echo.
 echo  ==========================================
+echo.
+echo  NOTE :
+echo  - Mode Offline hanya tersedia untuk Mode Practice dan Zombie.
+echo  - Rank di atas GM tidak bisa masuk permainan (Force Close).
+echo.
 
 set /p pilih=Pilih menu ^> 
 
@@ -37,14 +42,11 @@ goto menu
 cls
 echo [INFO] Membersihkan process lama...
 
-REM ===== CLEAN PROCESS (ANTI TABRAKAN) =====
 taskkill /im PointBlank.exe /f >nul 2>&1
 taskkill /im PointBlank.Auth.exe /f >nul 2>&1
 taskkill /im PointBlank.Battle.exe /f >nul 2>&1
 taskkill /im PointBlank.Game.exe /f >nul 2>&1
 taskkill /im PostgreSQLPortable.exe /f >nul 2>&1
-
-timeout /t 2 >nul
 
 echo [INFO] Menjalankan PostgreSQL...
 start "" /min "%~dp01-PostgreSQL\PostgreSQLPortable.exe"
@@ -66,19 +68,13 @@ goto menu
 cls
 echo [INFO] Menutup semua process...
 
-REM ===== STOP GAME =====
 taskkill /im PointBlank.exe /f >nul 2>&1
-
-REM ===== STOP SERVER =====
 taskkill /im PointBlank.Auth.exe /f >nul 2>&1
 taskkill /im PointBlank.Battle.exe /f >nul 2>&1
 taskkill /im PointBlank.Game.exe /f >nul 2>&1
-
-REM ===== OPTIONAL SCRIPT CLOSE =====
-call "%~dp02-Server\##Close##.bat"
-
-REM ===== STOP DATABASE =====
 taskkill /im PostgreSQLPortable.exe /f >nul 2>&1
+
+call "%~dp02-Server\##Close##.bat"
 
 echo.
 echo [SUCCESS] Semua berhasil dihentikan!
@@ -100,7 +96,6 @@ if "%newid%"=="" (
     goto menu
 )
 
-REM Replace baris idlogin
 (
 for /f "usebackq delims=" %%a in ("%~dp03-PointBlank\#STARTGAME#.bat") do (
     echo %%a | findstr /i "set idlogin=" >nul
@@ -116,7 +111,6 @@ move /y "%~dp03-PointBlank\temp.bat" "%~dp03-PointBlank\#STARTGAME#.bat" >nul
 
 echo.
 echo [SUCCESS] ID berhasil diubah!
-echo Backup disimpan sebagai: backup_STARTGAME.bat
 pause
 goto menu
 
