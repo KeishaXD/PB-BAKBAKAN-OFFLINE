@@ -1,0 +1,653 @@
+2025-09-16 09:56:05.468 -03 [4324] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-16 09:56:05.469 -03 [4324] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-16 09:56:05.517 -03 [7828] LOG:  database system was shut down at 2025-09-16 09:56:02 -03
+2025-09-16 09:56:05.562 -03 [4324] LOG:  database system is ready to accept connections
+2025-09-16 10:02:28.975 -03 [4324] LOG:  server process (PID 9124) was terminated by exception 0xC000013A
+2025-09-16 10:02:28.975 -03 [4324] DETAIL:  Failed process was running: SELECT opr.oid, opr.oprname, nsp.nspname FROM pg_operator opr, pg_namespace nsp WHERE opr.oprnamespace = nsp.oid
+2025-09-16 10:02:28.975 -03 [4324] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-16 10:02:28.976 -03 [4324] LOG:  terminating any other active server processes
+2025-09-16 10:02:28.976 -03 [304] WARNING:  terminating connection because of crash of another server process
+2025-09-16 10:02:28.976 -03 [304] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-16 10:02:28.976 -03 [304] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-16 10:02:28.976 -03 [9820] WARNING:  terminating connection because of crash of another server process
+2025-09-16 10:02:28.976 -03 [9820] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-16 10:02:28.976 -03 [9820] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-16 10:02:28.977 -03 [14644] WARNING:  terminating connection because of crash of another server process
+2025-09-16 10:02:28.977 -03 [14644] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-16 10:02:28.977 -03 [14644] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-16 10:02:28.981 -03 [4324] LOG:  statistics collector process (PID 2596) was terminated by exception 0xC000013A
+2025-09-16 10:02:28.981 -03 [4324] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-16 10:02:28.981 -03 [4324] LOG:  all server processes terminated; reinitializing
+^C2025-09-16 11:08:45.735 -03 [10956] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-16 11:08:45.736 -03 [10956] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-16 11:08:45.782 -03 [15792] LOG:  database system was interrupted; last known up at 2025-09-16 10:01:58 -03
+2025-09-16 11:08:46.201 -03 [15792] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-16 11:08:46.203 -03 [15792] LOG:  redo starts at 0/1928FC8
+2025-09-16 11:08:46.203 -03 [15792] LOG:  invalid record length at 0/19290A8: wanted 24, got 0
+2025-09-16 11:08:46.203 -03 [15792] LOG:  redo done at 0/1929070
+2025-09-16 11:08:46.234 -03 [10956] LOG:  database system is ready to accept connections
+2025-09-16 11:09:34.210 -03 [14376] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-16 11:09:34.211 -03 [2760] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-16 11:09:34.211 -03 [13212] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-16 11:33:07.208 -03 [5712] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-16 11:33:12.764 -03 [10956] LOG:  server process (PID 14640) was terminated by exception 0xC000013A
+2025-09-16 11:33:12.764 -03 [10956] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-16 11:33:12.765 -03 [10956] LOG:  terminating any other active server processes
+2025-09-16 11:33:12.766 -03 [15660] WARNING:  terminating connection because of crash of another server process
+2025-09-16 11:33:12.766 -03 [15660] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-16 11:33:12.766 -03 [15660] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-16 11:33:12.769 -03 [10956] LOG:  statistics collector process (PID 6096) was terminated by exception 0xC000013A
+2025-09-16 11:33:12.769 -03 [10956] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-16 11:33:12.769 -03 [10956] LOG:  all server processes terminated; reinitializing
+^C2025-09-17 10:08:57.013 -03 [7772] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-17 10:08:57.013 -03 [7772] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-17 10:08:57.055 -03 [3828] LOG:  database system was interrupted; last known up at 2025-09-16 11:28:47 -03
+2025-09-17 10:08:57.447 -03 [3828] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-17 10:08:57.450 -03 [3828] LOG:  redo starts at 0/1A63850
+2025-09-17 10:08:57.455 -03 [3828] LOG:  invalid record length at 0/1A70608: wanted 24, got 0
+2025-09-17 10:08:57.455 -03 [3828] LOG:  redo done at 0/1A705D0
+2025-09-17 10:08:57.455 -03 [3828] LOG:  last completed transaction was at log time 2025-09-16 11:32:52.499139-03
+2025-09-17 10:08:57.489 -03 [7772] LOG:  database system is ready to accept connections
+2025-09-17 10:11:55.328 -03 [6760] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 10:11:55.328 -03 [15660] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 10:11:56.179 -03 [7084] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 10:11:57.000 -03 [14748] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 10:11:57.000 -03 [10428] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 10:11:57.792 -03 [7772] LOG:  server process (PID 9856) was terminated by exception 0xC000013A
+2025-09-17 10:11:57.792 -03 [7772] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 10:11:57.792 -03 [7772] LOG:  terminating any other active server processes
+2025-09-17 10:11:57.793 -03 [15748] WARNING:  terminating connection because of crash of another server process
+2025-09-17 10:11:57.793 -03 [15748] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 10:11:57.793 -03 [15748] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 10:11:57.798 -03 [7772] LOG:  received fast shutdown request
+^C2025-09-17 10:21:32.626 -03 [9804] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-17 10:21:32.626 -03 [9804] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-17 10:21:32.667 -03 [14564] LOG:  database system was interrupted; last known up at 2025-09-17 10:08:57 -03
+2025-09-17 10:21:33.082 -03 [14564] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-17 10:21:33.083 -03 [14564] LOG:  redo starts at 0/1A70678
+2025-09-17 10:21:33.084 -03 [14564] LOG:  invalid record length at 0/1A71BC0: wanted 24, got 0
+2025-09-17 10:21:33.084 -03 [14564] LOG:  redo done at 0/1A71B88
+2025-09-17 10:21:33.115 -03 [9804] LOG:  database system is ready to accept connections
+2025-09-17 10:32:40.054 -03 [9804] LOG:  server process (PID 16608) was terminated by exception 0xC000013A
+2025-09-17 10:32:40.054 -03 [9804] DETAIL:  Failed process was running: UPDATE player_dailyrecord SET point=$1,exp=$2 WHERE player_id=$3
+2025-09-17 10:32:40.054 -03 [9804] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 10:32:40.054 -03 [9804] LOG:  terminating any other active server processes
+2025-09-17 10:32:40.055 -03 [7560] WARNING:  terminating connection because of crash of another server process
+2025-09-17 10:32:40.055 -03 [7560] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 10:32:40.055 -03 [7560] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 10:32:40.056 -03 [14548] WARNING:  terminating connection because of crash of another server process
+2025-09-17 10:32:40.056 -03 [14548] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 10:32:40.056 -03 [14548] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 10:32:40.059 -03 [9804] LOG:  received fast shutdown request
+^C2025-09-17 14:47:22.675 -03 [18940] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-17 14:47:22.675 -03 [18940] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-17 14:47:22.720 -03 [7384] LOG:  database system was interrupted; last known up at 2025-09-17 10:31:33 -03
+2025-09-17 14:47:23.112 -03 [7384] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-17 14:47:23.114 -03 [7384] LOG:  redo starts at 0/1A8A170
+2025-09-17 14:47:23.118 -03 [7384] LOG:  invalid record length at 0/1A92738: wanted 24, got 0
+2025-09-17 14:47:23.118 -03 [7384] LOG:  redo done at 0/1A92700
+2025-09-17 14:47:23.118 -03 [7384] LOG:  last completed transaction was at log time 2025-09-17 10:32:33.381197-03
+2025-09-17 14:47:23.150 -03 [18940] LOG:  database system is ready to accept connections
+2025-09-17 15:04:38.971 -03 [18460] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 15:04:38.973 -03 [18032] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 15:04:38.973 -03 [17328] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 17:47:56.374 -03 [18940] LOG:  server process (PID 13476) was terminated by exception 0xC000013A
+2025-09-17 17:47:56.374 -03 [18940] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 17:47:56.374 -03 [18940] LOG:  terminating any other active server processes
+2025-09-17 17:47:56.377 -03 [16060] WARNING:  terminating connection because of crash of another server process
+2025-09-17 17:47:56.377 -03 [16060] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 17:47:56.377 -03 [16060] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 17:47:56.378 -03 [18940] LOG:  statistics collector process (PID 3200) was terminated by exception 0xC000013A
+2025-09-17 17:47:56.378 -03 [18940] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 17:47:56.378 -03 [18940] LOG:  received fast shutdown request
+^C2025-09-17 17:47:58.311 -03 [17800] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-17 17:47:58.311 -03 [17800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-17 17:47:58.351 -03 [12208] LOG:  database system was interrupted; last known up at 2025-09-17 14:52:25 -03
+2025-09-17 17:47:58.773 -03 [12208] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-17 17:47:58.775 -03 [12208] LOG:  redo starts at 0/1A94A60
+2025-09-17 17:47:58.775 -03 [12208] LOG:  invalid record length at 0/1A94B40: wanted 24, got 0
+2025-09-17 17:47:58.775 -03 [12208] LOG:  redo done at 0/1A94B08
+2025-09-17 17:47:58.804 -03 [17800] LOG:  database system is ready to accept connections
+2025-09-17 18:33:06.780 -03 [15316] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 18:33:06.780 -03 [15252] LOG:  could not receive data from client: unrecognized winsock error 10054
+2025-09-17 18:33:09.949 -03 [17800] LOG:  server process (PID 16104) was terminated by exception 0xC000013A
+2025-09-17 18:33:09.949 -03 [17800] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 18:33:09.949 -03 [17800] LOG:  terminating any other active server processes
+2025-09-17 18:33:09.950 -03 [21068] WARNING:  terminating connection because of crash of another server process
+2025-09-17 18:33:09.950 -03 [21068] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 18:33:09.950 -03 [21068] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 18:33:09.954 -03 [17800] LOG:  statistics collector process (PID 13916) was terminated by exception 0xC000013A
+2025-09-17 18:33:09.954 -03 [17800] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 18:33:09.954 -03 [17800] LOG:  all server processes terminated; reinitializing
+^C2025-09-17 18:52:46.534 -03 [19068] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-17 18:52:46.535 -03 [19068] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-17 18:52:46.575 -03 [19996] LOG:  database system was interrupted; last known up at 2025-09-17 18:32:59 -03
+2025-09-17 18:52:46.997 -03 [19996] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-09-17 18:52:46.999 -03 [19996] LOG:  redo starts at 0/1B12F48
+2025-09-17 18:52:47.001 -03 [19996] LOG:  invalid record length at 0/1B1A2D0: wanted 24, got 0
+2025-09-17 18:52:47.001 -03 [19996] LOG:  redo done at 0/1B1A2A8
+2025-09-17 18:52:47.001 -03 [19996] LOG:  last completed transaction was at log time 2025-09-17 18:33:01.236661-03
+2025-09-17 18:52:47.033 -03 [19068] LOG:  database system is ready to accept connections
+2025-09-17 20:26:15.465 -03 [19068] LOG:  server process (PID 19552) was terminated by exception 0xC000013A
+2025-09-17 20:26:15.465 -03 [19068] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-09-17 20:26:15.465 -03 [19068] LOG:  terminating any other active server processes
+2025-09-17 20:26:15.466 -03 [17648] WARNING:  terminating connection because of crash of another server process
+2025-09-17 20:26:15.466 -03 [17648] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2025-09-17 20:26:15.466 -03 [17648] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2025-09-17 20:26:15.472 -03 [19068] LOG:  all server processes terminated; reinitializing
+^C2026-01-07 23:27:32.319 -03 [2620] LOG:  listening on IPv6 address "::1", port 5432
+2026-01-07 23:27:32.319 -03 [2620] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-01-07 23:27:32.429 -03 [21400] LOG:  database system was interrupted; last known up at 2025-09-17 20:17:47 -03
+2026-01-07 23:27:32.712 -03 [21400] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-07 23:27:32.731 -03 [21400] LOG:  redo starts at 0/1B880D0
+2026-01-07 23:27:32.731 -03 [21400] LOG:  invalid record length at 0/1B881B0: wanted 24, got 0
+2026-01-07 23:27:32.731 -03 [21400] LOG:  redo done at 0/1B88178
+2026-01-07 23:27:32.887 -03 [2620] LOG:  database system is ready to accept connections
+2026-01-07 23:44:11.268 -03 [4264] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-07 23:44:11.268 -03 [19740] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-07 23:44:14.157 -03 [13052] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-07 23:44:14.171 -03 [19512] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-07 23:44:14.171 -03 [15688] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-08 00:29:04.182 -03 [2620] LOG:  server process (PID 4952) was terminated by exception 0xC000013A
+2026-01-08 00:29:04.182 -03 [2620] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-08 00:29:04.182 -03 [2620] LOG:  terminating any other active server processes
+2026-01-08 00:29:04.186 -03 [21684] WARNING:  terminating connection because of crash of another server process
+2026-01-08 00:29:04.186 -03 [21684] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-01-08 00:29:04.186 -03 [21684] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+^C2026-01-10 05:01:40.432 -03 [22996] LOG:  listening on IPv6 address "::1", port 5432
+2026-01-10 05:01:40.432 -03 [22996] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-01-10 05:01:40.489 -03 [21736] LOG:  database system was interrupted; last known up at 2026-01-07 23:47:34 -03
+2026-01-10 05:01:40.876 -03 [21736] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-10 05:01:40.879 -03 [21736] LOG:  redo starts at 0/1BBA200
+2026-01-10 05:01:40.879 -03 [21736] LOG:  invalid record length at 0/1BBA2E0: wanted 24, got 0
+2026-01-10 05:01:40.879 -03 [21736] LOG:  redo done at 0/1BBA2A8
+2026-01-10 05:01:40.914 -03 [22996] LOG:  database system is ready to accept connections
+2026-01-10 05:01:50.891 -03 [22996] LOG:  server process (PID 3748) was terminated by exception 0xC000013A
+2026-01-10 05:01:50.891 -03 [22996] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-10 05:01:50.891 -03 [22996] LOG:  terminating any other active server processes
+2026-01-10 05:01:50.893 -03 [22868] WARNING:  terminating connection because of crash of another server process
+2026-01-10 05:01:50.893 -03 [22868] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-01-10 05:01:50.893 -03 [22868] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-01-10 05:01:50.898 -03 [22996] LOG:  statistics collector process (PID 19228) was terminated by exception 0xC000013A
+2026-01-10 05:01:50.898 -03 [22996] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-10 05:01:50.898 -03 [22996] LOG:  all server processes terminated; reinitializing
+^C2026-01-10 05:02:11.299 -03 [11416] LOG:  listening on IPv6 address "::1", port 5432
+2026-01-10 05:02:11.299 -03 [11416] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-01-10 05:02:11.338 -03 [23088] LOG:  database system was interrupted; last known up at 2026-01-10 05:01:40 -03
+2026-01-10 05:02:11.529 -03 [23088] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-10 05:02:11.532 -03 [23088] LOG:  invalid record length at 0/1BBA350: wanted 24, got 0
+2026-01-10 05:02:11.532 -03 [23088] LOG:  redo is not required
+2026-01-10 05:02:11.568 -03 [11416] LOG:  database system is ready to accept connections
+2026-01-10 05:07:36.556 -03 [6784] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-10 05:07:36.557 -03 [18204] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-10 05:07:42.359 -03 [4804] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-10 05:07:42.359 -03 [22792] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-10 05:07:44.862 -03 [11416] LOG:  server process (PID 5524) was terminated by exception 0xC000013A
+2026-01-10 05:07:44.862 -03 [11416] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-10 05:07:44.862 -03 [11416] LOG:  terminating any other active server processes
+2026-01-10 05:07:44.863 -03 [9000] WARNING:  terminating connection because of crash of another server process
+2026-01-10 05:07:44.863 -03 [9000] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-01-10 05:07:44.863 -03 [9000] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-01-10 05:07:44.870 -03 [11416] LOG:  statistics collector process (PID 16776) was terminated by exception 0xC000013A
+2026-01-10 05:07:44.870 -03 [11416] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-10 05:07:44.870 -03 [11416] LOG:  all server processes terminated; reinitializing
+^C2026-01-13 10:07:08.455 -03 [2812] LOG:  listening on IPv6 address "::1", port 5432
+2026-01-13 10:07:08.455 -03 [2812] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-01-13 10:07:08.497 -03 [2032] LOG:  database system was interrupted; last known up at 2026-01-10 05:07:12 -03
+2026-01-13 10:07:08.896 -03 [2032] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-13 10:07:08.899 -03 [2032] LOG:  redo starts at 0/1BC69C0
+2026-01-13 10:07:08.901 -03 [2032] LOG:  invalid record length at 0/1BCB070: wanted 24, got 0
+2026-01-13 10:07:08.901 -03 [2032] LOG:  redo done at 0/1BCB038
+2026-01-13 10:07:08.936 -03 [2812] LOG:  database system is ready to accept connections
+2026-01-13 10:31:23.130 -03 [14456] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-13 10:31:23.130 -03 [20532] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-13 10:31:25.224 -03 [2812] LOG:  server process (PID 3876) was terminated by exception 0xC000013A
+2026-01-13 10:31:25.224 -03 [2812] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-13 10:31:25.224 -03 [2812] LOG:  terminating any other active server processes
+2026-01-13 10:31:25.227 -03 [20116] WARNING:  terminating connection because of crash of another server process
+2026-01-13 10:31:25.227 -03 [20116] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-01-13 10:31:25.227 -03 [20116] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+^C2026-01-16 06:01:05.786 -03 [18036] LOG:  listening on IPv6 address "::1", port 5432
+2026-01-16 06:01:05.786 -03 [18036] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-01-16 06:01:05.842 -03 [10360] LOG:  database system was interrupted; last known up at 2026-01-13 10:27:09 -03
+2026-01-16 06:01:06.110 -03 [20756] FATAL:  the database system is starting up
+2026-01-16 06:01:06.125 -03 [128] FATAL:  the database system is starting up
+2026-01-16 06:01:06.147 -03 [14448] FATAL:  the database system is starting up
+2026-01-16 06:01:06.162 -03 [17556] FATAL:  the database system is starting up
+2026-01-16 06:01:06.177 -03 [15608] FATAL:  the database system is starting up
+2026-01-16 06:01:06.191 -03 [10316] FATAL:  the database system is starting up
+2026-01-16 06:01:06.207 -03 [21144] FATAL:  the database system is starting up
+2026-01-16 06:01:06.222 -03 [18204] FATAL:  the database system is starting up
+2026-01-16 06:01:06.237 -03 [14424] FATAL:  the database system is starting up
+2026-01-16 06:01:06.249 -03 [13988] FATAL:  the database system is starting up
+2026-01-16 06:01:06.266 -03 [17640] FATAL:  the database system is starting up
+2026-01-16 06:01:06.278 -03 [11008] FATAL:  the database system is starting up
+2026-01-16 06:01:06.288 -03 [10360] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-16 06:01:06.292 -03 [10360] LOG:  redo starts at 0/1BF4070
+2026-01-16 06:01:06.296 -03 [3204] FATAL:  the database system is starting up
+2026-01-16 06:01:06.297 -03 [10360] LOG:  invalid record length at 0/1BFE7B0: wanted 24, got 0
+2026-01-16 06:01:06.297 -03 [10360] LOG:  redo done at 0/1BFE778
+2026-01-16 06:01:06.298 -03 [10360] LOG:  last completed transaction was at log time 2026-01-13 10:31:18.553312-03
+2026-01-16 06:01:06.307 -03 [5340] FATAL:  the database system is starting up
+2026-01-16 06:01:06.328 -03 [596] FATAL:  the database system is starting up
+2026-01-16 06:01:06.336 -03 [18036] LOG:  database system is ready to accept connections
+2026-01-16 06:01:06.374 -03 [7668] FATAL:  the database system is starting up
+2026-01-16 06:01:11.169 -03 [12996] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-16 06:01:11.169 -03 [20964] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-16 06:01:11.222 -03 [3928] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-16 06:01:11.222 -03 [19532] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-16 07:08:21.508 -03 [21676] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-16 07:58:09.580 -03 [18036] LOG:  server process (PID 20248) was terminated by exception 0xC000013A
+2026-01-16 07:58:09.580 -03 [18036] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-16 07:58:09.580 -03 [18036] LOG:  terminating any other active server processes
+2026-01-16 07:58:09.585 -03 [20844] WARNING:  terminating connection because of crash of another server process
+2026-01-16 07:58:09.585 -03 [20844] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-01-16 07:58:09.585 -03 [20844] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-01-16 07:58:09.587 -03 [18036] LOG:  statistics collector process (PID 5964) was terminated by exception 0xC000013A
+2026-01-16 07:58:09.587 -03 [18036] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-16 07:58:09.588 -03 [18036] LOG:  received fast shutdown request
+^C2026-04-12 10:15:50.220 -03 [9456] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 10:15:50.220 -03 [9456] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 10:15:50.365 -03 [9720] LOG:  database system was interrupted; last known up at 2026-01-16 07:11:07 -03
+2026-04-12 10:15:54.484 -03 [9720] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 10:15:54.495 -03 [9720] LOG:  redo starts at 0/1C683A0
+2026-04-12 10:15:54.495 -03 [9720] LOG:  invalid record length at 0/1C68480: wanted 24, got 0
+2026-04-12 10:15:54.495 -03 [9720] LOG:  redo done at 0/1C68448
+2026-04-12 10:15:54.619 -03 [9456] LOG:  database system is ready to accept connections
+2026-04-12 10:32:36.005 -03 [10652] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 10:32:36.005 -03 [16276] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 10:56:29.242 -03 [13088] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 10:56:29.242 -03 [8920] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:06:54.277 -03 [8264] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:35:35.877 -03 [12576] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:35:35.878 -03 [12576] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:35:35.940 -03 [7200] LOG:  database system was interrupted; last known up at 2026-04-12 11:00:54 -03
+2026-04-12 11:35:36.538 -03 [7200] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:35:36.542 -03 [7200] LOG:  redo starts at 0/1D052C0
+2026-04-12 11:35:36.542 -03 [7200] LOG:  invalid record length at 0/1D053A0: wanted 24, got 0
+2026-04-12 11:35:36.542 -03 [7200] LOG:  redo done at 0/1D05368
+2026-04-12 11:35:36.624 -03 [12576] LOG:  database system is ready to accept connections
+2026-04-12 11:36:30.093 -03 [6120] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:36:30.095 -03 [11456] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:36:30.112 -03 [9864] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:36:32.301 -03 [12576] LOG:  server process (PID 11056) was terminated by exception 0xC000013A
+2026-04-12 11:36:32.301 -03 [12576] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:36:32.302 -03 [12576] LOG:  terminating any other active server processes
+2026-04-12 11:36:32.310 -03 [10640] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:36:32.310 -03 [10640] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:36:32.310 -03 [10640] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:36:32.330 -03 [12576] LOG:  statistics collector process (PID 3352) was terminated by exception 0xC000013A
+2026-04-12 11:36:32.330 -03 [12576] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:36:32.331 -03 [12576] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 11:40:51.741 -03 [15804] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:40:51.742 -03 [15804] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:40:51.809 -03 [6968] LOG:  database system was interrupted; last known up at 2026-04-12 11:35:36 -03
+2026-04-12 11:40:52.548 -03 [6968] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:40:52.552 -03 [6968] LOG:  redo starts at 0/1D05410
+2026-04-12 11:40:52.552 -03 [6968] LOG:  invalid record length at 0/1D05448: wanted 24, got 0
+2026-04-12 11:40:52.552 -03 [6968] LOG:  redo done at 0/1D05410
+2026-04-12 11:40:52.618 -03 [15804] LOG:  database system is ready to accept connections
+2026-04-12 11:42:02.470 -03 [15804] LOG:  server process (PID 16708) was terminated by exception 0xC000013A
+2026-04-12 11:42:02.470 -03 [15804] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:42:02.471 -03 [15804] LOG:  terminating any other active server processes
+2026-04-12 11:42:02.480 -03 [17380] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:42:02.480 -03 [17380] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:42:02.480 -03 [17380] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:42:02.509 -03 [15804] LOG:  statistics collector process (PID 16156) was terminated by exception 0xC000013A
+2026-04-12 11:42:02.509 -03 [15804] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:42:02.510 -03 [15804] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 11:42:44.230 -03 [13104] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:42:44.230 -03 [13104] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:42:44.300 -03 [13132] LOG:  database system was interrupted; last known up at 2026-04-12 11:40:52 -03
+2026-04-12 11:42:45.063 -03 [13132] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:42:45.067 -03 [13132] LOG:  redo starts at 0/1D054B8
+2026-04-12 11:42:45.067 -03 [13132] LOG:  invalid record length at 0/1D054F0: wanted 24, got 0
+2026-04-12 11:42:45.067 -03 [13132] LOG:  redo done at 0/1D054B8
+2026-04-12 11:42:45.142 -03 [13104] LOG:  database system is ready to accept connections
+2026-04-12 11:46:59.067 -03 [13104] LOG:  server process (PID 14288) was terminated by exception 0xC000013A
+2026-04-12 11:46:59.067 -03 [13104] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:46:59.067 -03 [13104] LOG:  terminating any other active server processes
+2026-04-12 11:46:59.078 -03 [7668] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:46:59.078 -03 [7668] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:46:59.078 -03 [7668] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:46:59.102 -03 [13104] LOG:  statistics collector process (PID 14652) was terminated by exception 0xC000013A
+2026-04-12 11:46:59.102 -03 [13104] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:46:59.102 -03 [13104] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 11:47:05.431 -03 [14324] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:47:05.431 -03 [14324] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:47:05.495 -03 [336] LOG:  database system was interrupted; last known up at 2026-04-12 11:42:45 -03
+2026-04-12 11:47:06.149 -03 [336] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:47:06.154 -03 [336] LOG:  redo starts at 0/1D05560
+2026-04-12 11:47:06.154 -03 [336] LOG:  invalid record length at 0/1D05598: wanted 24, got 0
+2026-04-12 11:47:06.154 -03 [336] LOG:  redo done at 0/1D05560
+2026-04-12 11:47:06.222 -03 [14324] LOG:  database system is ready to accept connections
+2026-04-12 11:47:33.194 -03 [16912] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:47:33.194 -03 [9148] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:47:35.948 -03 [11840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:47:38.088 -03 [15804] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:47:38.089 -03 [10608] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:47:40.383 -03 [14324] LOG:  server process (PID 9308) was terminated by exception 0xC000013A
+2026-04-12 11:47:40.383 -03 [14324] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:47:40.384 -03 [14324] LOG:  terminating any other active server processes
+2026-04-12 11:47:40.394 -03 [1900] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:47:40.394 -03 [1900] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:47:40.394 -03 [1900] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:47:40.420 -03 [14324] LOG:  statistics collector process (PID 10140) was terminated by exception 0xC000013A
+2026-04-12 11:47:40.420 -03 [14324] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:47:40.420 -03 [14324] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 11:50:01.393 -03 [10944] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:50:01.393 -03 [10944] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:50:01.466 -03 [13744] LOG:  database system was interrupted; last known up at 2026-04-12 11:47:06 -03
+2026-04-12 11:50:02.181 -03 [13744] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:50:02.187 -03 [13744] LOG:  redo starts at 0/1D05608
+2026-04-12 11:50:02.187 -03 [13744] LOG:  invalid record length at 0/1D05640: wanted 24, got 0
+2026-04-12 11:50:02.187 -03 [13744] LOG:  redo done at 0/1D05608
+2026-04-12 11:50:02.249 -03 [10944] LOG:  database system is ready to accept connections
+2026-04-12 11:50:40.252 -03 [10944] LOG:  server process (PID 2024) was terminated by exception 0xC000013A
+2026-04-12 11:50:40.252 -03 [10944] DETAIL:  Failed process was running: SELECT * FROM server_settings WHERE config_id=$1
+2026-04-12 11:50:40.252 -03 [10944] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:50:40.252 -03 [10944] LOG:  terminating any other active server processes
+2026-04-12 11:50:40.258 -03 [9972] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:50:40.258 -03 [9972] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:50:40.258 -03 [9972] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:50:40.260 -03 [6384] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:50:40.260 -03 [6384] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:50:40.260 -03 [6384] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:50:40.261 -03 [7176] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:50:40.261 -03 [7176] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:50:40.261 -03 [7176] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:50:40.263 -03 [8212] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:50:40.263 -03 [8212] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:50:40.263 -03 [8212] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:50:40.270 -03 [5484] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:50:40.270 -03 [5484] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:50:40.270 -03 [5484] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:50:40.303 -03 [10944] LOG:  statistics collector process (PID 8056) was terminated by exception 0xC000013A
+2026-04-12 11:50:40.303 -03 [10944] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:50:40.304 -03 [10944] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 11:52:37.659 -03 [11124] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 11:52:37.660 -03 [11124] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 11:52:37.729 -03 [9320] LOG:  database system was interrupted; last known up at 2026-04-12 11:50:02 -03
+2026-04-12 11:52:38.388 -03 [9320] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 11:52:38.392 -03 [9320] LOG:  redo starts at 0/1D056B0
+2026-04-12 11:52:38.392 -03 [9320] LOG:  invalid record length at 0/1D056E8: wanted 24, got 0
+2026-04-12 11:52:38.392 -03 [9320] LOG:  redo done at 0/1D056B0
+2026-04-12 11:52:38.452 -03 [11124] LOG:  database system is ready to accept connections
+2026-04-12 11:52:55.754 -03 [16556] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:52:55.755 -03 [6520] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:52:56.217 -03 [3792] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:52:56.612 -03 [14764] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:52:56.612 -03 [10120] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 11:52:57.425 -03 [11124] LOG:  server process (PID 14880) was terminated by exception 0xC000013A
+2026-04-12 11:52:57.425 -03 [11124] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:52:57.425 -03 [11124] LOG:  terminating any other active server processes
+2026-04-12 11:52:57.429 -03 [7476] WARNING:  terminating connection because of crash of another server process
+2026-04-12 11:52:57.429 -03 [7476] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 11:52:57.429 -03 [7476] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 11:52:57.437 -03 [11124] LOG:  statistics collector process (PID 5380) was terminated by exception 0xC000013A
+2026-04-12 11:52:57.437 -03 [11124] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 11:52:57.437 -03 [11124] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 12:01:33.508 -03 [12172] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 12:01:33.508 -03 [12172] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 12:01:33.595 -03 [8648] LOG:  database system was interrupted; last known up at 2026-04-12 11:52:38 -03
+2026-04-12 12:01:34.322 -03 [8648] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 12:01:34.327 -03 [8648] LOG:  redo starts at 0/1D05758
+2026-04-12 12:01:34.327 -03 [8648] LOG:  invalid record length at 0/1D05790: wanted 24, got 0
+2026-04-12 12:01:34.327 -03 [8648] LOG:  redo done at 0/1D05758
+2026-04-12 12:01:34.401 -03 [12172] LOG:  database system is ready to accept connections
+2026-04-12 12:04:37.650 -03 [12416] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:04:37.650 -03 [13724] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:04:37.901 -03 [10684] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:04:38.104 -03 [9868] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:04:38.104 -03 [2180] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:04:46.992 -03 [12172] LOG:  server process (PID 10496) was terminated by exception 0xC000013A
+2026-04-12 12:04:46.992 -03 [12172] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:04:46.992 -03 [12172] LOG:  terminating any other active server processes
+2026-04-12 12:04:47.004 -03 [6112] WARNING:  terminating connection because of crash of another server process
+2026-04-12 12:04:47.004 -03 [6112] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 12:04:47.004 -03 [6112] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 12:04:47.023 -03 [12172] LOG:  statistics collector process (PID 11532) was terminated by exception 0xC000013A
+2026-04-12 12:04:47.023 -03 [12172] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:04:47.023 -03 [12172] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 12:11:37.439 -03 [13132] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 12:11:37.439 -03 [13132] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 12:11:37.527 -03 [8824] LOG:  database system was interrupted; last known up at 2026-04-12 12:01:34 -03
+2026-04-12 12:11:38.270 -03 [8824] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 12:11:38.276 -03 [8824] LOG:  redo starts at 0/1D05800
+2026-04-12 12:11:38.280 -03 [8824] LOG:  invalid record length at 0/1D090A0: wanted 24, got 0
+2026-04-12 12:11:38.280 -03 [8824] LOG:  redo done at 0/1D09068
+2026-04-12 12:11:38.280 -03 [8824] LOG:  last completed transaction was at log time 2026-04-12 12:04:28.064911-03
+2026-04-12 12:11:38.356 -03 [13132] LOG:  database system is ready to accept connections
+2026-04-12 12:12:50.863 -03 [1172] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:12:52.823 -03 [3256] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:12:52.824 -03 [14076] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:12:55.169 -03 [13860] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:12:55.169 -03 [16004] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:13:11.289 -03 [13132] LOG:  server process (PID 10596) was terminated by exception 0xC000013A
+2026-04-12 12:13:11.289 -03 [13132] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:13:11.289 -03 [13132] LOG:  terminating any other active server processes
+2026-04-12 12:13:11.299 -03 [6880] WARNING:  terminating connection because of crash of another server process
+2026-04-12 12:13:11.299 -03 [6880] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 12:13:11.299 -03 [6880] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 12:13:11.321 -03 [13132] LOG:  statistics collector process (PID 15816) was terminated by exception 0xC000013A
+2026-04-12 12:13:11.321 -03 [13132] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:13:11.322 -03 [13132] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 12:13:18.090 -03 [12232] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 12:13:18.090 -03 [12232] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 12:13:18.184 -03 [9596] LOG:  database system was interrupted; last known up at 2026-04-12 12:11:38 -03
+2026-04-12 12:13:18.985 -03 [9596] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 12:13:18.990 -03 [9596] LOG:  redo starts at 0/1D09110
+2026-04-12 12:13:18.994 -03 [9596] LOG:  invalid record length at 0/1D0CCC0: wanted 24, got 0
+2026-04-12 12:13:18.994 -03 [9596] LOG:  redo done at 0/1D0CC88
+2026-04-12 12:13:18.995 -03 [9596] LOG:  last completed transaction was at log time 2026-04-12 12:12:31.162469-03
+2026-04-12 12:13:19.075 -03 [12232] LOG:  database system is ready to accept connections
+2026-04-12 12:14:19.683 -03 [1212] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:14:19.684 -03 [11824] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:14:19.867 -03 [9276] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:14:20.053 -03 [12196] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:14:20.054 -03 [1332] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:19:55.455 -03 [12232] LOG:  server process (PID 2976) was terminated by exception 0xC000013A
+2026-04-12 12:19:55.455 -03 [12232] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:19:55.456 -03 [12232] LOG:  terminating any other active server processes
+2026-04-12 12:19:55.470 -03 [1784] WARNING:  terminating connection because of crash of another server process
+2026-04-12 12:19:55.470 -03 [1784] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 12:19:55.470 -03 [1784] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 12:19:55.491 -03 [12232] LOG:  statistics collector process (PID 11148) was terminated by exception 0xC000013A
+2026-04-12 12:19:55.491 -03 [12232] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:19:55.492 -03 [12232] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 12:20:53.493 -03 [12968] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 12:20:53.494 -03 [12968] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 12:20:53.562 -03 [6520] LOG:  database system was interrupted; last known up at 2026-04-12 12:18:19 -03
+2026-04-12 12:20:54.244 -03 [6520] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 12:20:54.250 -03 [6520] LOG:  redo starts at 0/1D0F078
+2026-04-12 12:20:54.250 -03 [6520] LOG:  invalid record length at 0/1D0F158: wanted 24, got 0
+2026-04-12 12:20:54.250 -03 [6520] LOG:  redo done at 0/1D0F120
+2026-04-12 12:20:54.330 -03 [12968] LOG:  database system is ready to accept connections
+2026-04-12 12:23:51.304 -03 [11920] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:23:51.304 -03 [5412] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:23:51.335 -03 [7628] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:29:43.854 -03 [16444] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.515 -03 [9444] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.515 -03 [16932] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.519 -03 [16148] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.516 -03 [14464] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.773 -03 [14304] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.974 -03 [13836] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:11.974 -03 [2492] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:32:20.649 -03 [12968] LOG:  server process (PID 4392) was terminated by exception 0xC000013A
+2026-04-12 12:32:20.649 -03 [12968] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:32:20.650 -03 [12968] LOG:  terminating any other active server processes
+2026-04-12 12:32:20.662 -03 [16308] WARNING:  terminating connection because of crash of another server process
+2026-04-12 12:32:20.662 -03 [16308] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 12:32:20.662 -03 [16308] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 12:32:20.682 -03 [12968] LOG:  statistics collector process (PID 3384) was terminated by exception 0xC000013A
+2026-04-12 12:32:20.682 -03 [12968] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 12:32:20.682 -03 [12968] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 12:32:44.715 -03 [12676] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 12:32:44.716 -03 [12676] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 12:32:44.778 -03 [16748] LOG:  database system was interrupted; last known up at 2026-04-12 12:30:54 -03
+2026-04-12 12:32:45.429 -03 [16748] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 12:32:45.433 -03 [16748] LOG:  redo starts at 0/1D16E90
+2026-04-12 12:32:45.437 -03 [16748] LOG:  invalid record length at 0/1D1C9D8: wanted 24, got 0
+2026-04-12 12:32:45.437 -03 [16748] LOG:  redo done at 0/1D1C9A0
+2026-04-12 12:32:45.437 -03 [16748] LOG:  last completed transaction was at log time 2026-04-12 12:31:05.898275-03
+2026-04-12 12:32:45.509 -03 [12676] LOG:  database system is ready to accept connections
+2026-04-12 12:59:19.953 -03 [2180] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:59:19.953 -03 [13720] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:59:20.203 -03 [1756] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:59:20.425 -03 [10220] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 12:59:20.425 -03 [4348] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:03:08.860 -03 [6916] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:03:08.860 -03 [1776] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:03:08.999 -03 [17352] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:03:09.139 -03 [8780] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:03:09.139 -03 [3516] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:21.134 -03 [17200] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:21.134 -03 [16808] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:23.218 -03 [7152] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:24.107 -03 [9236] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:25.621 -03 [10640] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:25.621 -03 [9084] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:05:30.208 -03 [12676] LOG:  server process (PID 6932) was terminated by exception 0xC000013A
+2026-04-12 13:05:30.208 -03 [12676] DETAIL:  Failed process was running: SELECT opr.oid, opr.oprname, nsp.nspname FROM pg_operator opr, pg_namespace nsp WHERE opr.oprnamespace = nsp.oid
+2026-04-12 13:05:30.208 -03 [12676] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:05:30.209 -03 [12676] LOG:  terminating any other active server processes
+2026-04-12 13:05:30.221 -03 [2392] WARNING:  terminating connection because of crash of another server process
+2026-04-12 13:05:30.221 -03 [2392] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 13:05:30.221 -03 [2392] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 13:05:30.225 -03 [5948] WARNING:  terminating connection because of crash of another server process
+2026-04-12 13:05:30.225 -03 [5948] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 13:05:30.225 -03 [5948] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 13:05:30.237 -03 [9212] WARNING:  terminating connection because of crash of another server process
+2026-04-12 13:05:30.237 -03 [9212] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 13:05:30.237 -03 [9212] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 13:05:30.271 -03 [12676] LOG:  statistics collector process (PID 4680) was terminated by exception 0xC000013A
+2026-04-12 13:05:30.271 -03 [12676] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:05:30.271 -03 [12676] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 13:05:45.377 -03 [6192] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 13:05:45.378 -03 [6192] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 13:05:45.475 -03 [2000] LOG:  database system was interrupted; last known up at 2026-04-12 13:02:46 -03
+2026-04-12 13:05:46.462 -03 [2000] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 13:05:46.466 -03 [2000] LOG:  redo starts at 0/1D22188
+2026-04-12 13:05:46.470 -03 [2000] LOG:  invalid record length at 0/1D25E38: wanted 24, got 0
+2026-04-12 13:05:46.470 -03 [2000] LOG:  redo done at 0/1D25E00
+2026-04-12 13:05:46.470 -03 [2000] LOG:  last completed transaction was at log time 2026-04-12 13:05:18.666559-03
+2026-04-12 13:05:46.560 -03 [6192] LOG:  database system is ready to accept connections
+2026-04-12 13:07:08.127 -03 [16992] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:07:08.127 -03 [10692] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:07:09.038 -03 [13840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:07:09.591 -03 [16808] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:07:09.591 -03 [15500] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:07:10.643 -03 [6192] LOG:  server process (PID 15572) was terminated by exception 0xC000013A
+2026-04-12 13:07:10.643 -03 [6192] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:07:10.643 -03 [6192] LOG:  terminating any other active server processes
+2026-04-12 13:07:10.654 -03 [15984] WARNING:  terminating connection because of crash of another server process
+2026-04-12 13:07:10.654 -03 [15984] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 13:07:10.654 -03 [15984] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 13:07:10.674 -03 [6192] LOG:  statistics collector process (PID 6968) was terminated by exception 0xC000013A
+2026-04-12 13:07:10.674 -03 [6192] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:07:10.674 -03 [6192] LOG:  all server processes terminated; reinitializing
+^C2026-04-12 13:07:39.237 -03 [13348] LOG:  listening on IPv6 address "::1", port 5432
+2026-04-12 13:07:39.237 -03 [13348] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2026-04-12 13:07:39.300 -03 [3872] LOG:  database system was interrupted; last known up at 2026-04-12 13:05:46 -03
+2026-04-12 13:07:39.968 -03 [3872] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-04-12 13:07:39.973 -03 [3872] LOG:  redo starts at 0/1D25EA8
+2026-04-12 13:07:39.976 -03 [3872] LOG:  invalid record length at 0/1D27EC8: wanted 24, got 0
+2026-04-12 13:07:39.976 -03 [3872] LOG:  redo done at 0/1D27E90
+2026-04-12 13:07:39.976 -03 [3872] LOG:  last completed transaction was at log time 2026-04-12 13:07:05.390479-03
+2026-04-12 13:07:40.046 -03 [13348] LOG:  database system is ready to accept connections
+2026-04-12 13:31:04.248 -03 [4648] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:31:04.250 -03 [12156] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-04-12 13:38:56.761 -03 [13348] LOG:  server process (PID 10860) was terminated by exception 0xC000013A
+2026-04-12 13:38:56.761 -03 [13348] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:38:56.762 -03 [13348] LOG:  terminating any other active server processes
+2026-04-12 13:38:56.776 -03 [17108] WARNING:  terminating connection because of crash of another server process
+2026-04-12 13:38:56.776 -03 [17108] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2026-04-12 13:38:56.776 -03 [17108] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2026-04-12 13:38:56.800 -03 [13348] LOG:  statistics collector process (PID 9976) was terminated by exception 0xC000013A
+2026-04-12 13:38:56.800 -03 [13348] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-04-12 13:38:56.801 -03 [13348] LOG:  received fast shutdown request
+^C

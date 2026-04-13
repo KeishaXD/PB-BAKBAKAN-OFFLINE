@@ -1,0 +1,90 @@
++----+------------+---------+----------------------------------+
+| No | Nama       | Rank ID | ID                               |
++----+------------+---------+----------------------------------+
+| 1  | MU         | 31      | ddee3f81be32235bfc94b16d7d558732 |
+| 2  | MU         | 0       | 793686816b794e0e2480efa537c03a84 |
+| 3  | MU         | 0       | 889cc7ff8e9f288117bac18a9741aac2 |
+| 4  | MU         | 49      | 02968828b116a0298b1c64715a7bd7b5 |
+| 5  | BeyaZ      | 31      | 5bca2153e5d004fdb4b3b699cdc215b4 |
+| 6  | MU         | 0       | e0e340cc7bdff501c14c08ad80e762e4 |
+| 7  | MU         | 53      | a8424d8340fc116096e2b67121b2bcec |
+| 8  | MU         | 51      | 5938dc696b5a5cd3987a3f3a9dbc172d |
+| 9  | MU         | 39      | a8424d8340fc116096e2b67121b2bcec |
+| 10 | MU|VİP+|   | 53      | 6334ee53eb2d9f107dbb1fe2efa4a2c0 |
+| 11 | MU         | 1       | cc7b3e9ceb1c4f228aa92888531fdd94 |
+| 12 | MU         | 31      | 128fc41fc1c731f8b71cbae35d302f23 |
+| 13 | MU         | 49      | a1d6a387d5bf86eca9c4b4add453f4fe |
+| 14 | MU         | 0       | 6eb49f157460508d17612005e223891a |
+| 15 | MU         | 0       | 6ef460c3a1a824b285bca690d5741787 |
+| 16 | MU         | 51      | a025c9703450838e604bbb48d284bf01 |
+| 17 | KeisaXD    | 42      | 01529db3c5807f4a5dca432883176f91 |
+| 18 | MU|VİP+|   | 54      | legend                           |
+| 19 | GM MU      | 53      | 5938dc696b5a5cd3317a3f3a9dbc172d |
++----+------------+---------+----------------------------------+
+
+Keterangan ID / Pangkat :
+sumber : https://adhityo.com/urutan-pangkat-point-blank/
+
+
++-------------------+------------+---------+----------------------------------+
+| Kategori          | Rank ID    | No      | Nama Pangkat                     |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Awal      | 1 – 5      | 1       | Trainee                          |
+|                   |            | 2       | Senior Trainee                   |
+|                   |            | 3       | Private                          |
+|                   |            | 4       | Corporal                         |
+|                   |            | 5       | Sergeant                         |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Cabang    | 6 – 17     | 6       | Staff Sgt. Grade 1               |
+|                   |            | 7       | Staff Sgt. Grade 2               |
+|                   |            | 8       | Staff Sgt. Grade 3               |
+|                   |            | 9       | Sgt. 1st Class Grade 1           |
+|                   |            | 10      | Sgt. 1st Class Grade 2           |
+|                   |            | 11      | Sgt. 1st Class Grade 3           |
+|                   |            | 12      | Sgt. 1st Class Grade 4           |
+|                   |            | 13      | Master Sgt. Grade 1              |
+|                   |            | 14      | Master Sgt. Grade 2              |
+|                   |            | 15      | Master Sgt. Grade 3              |
+|                   |            | 16      | Master Sgt. Grade 4              |
+|                   |            | 17      | Master Sgt. Grade 5              |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Diamond   | 18 – 31    | 18      | 2nd Lt. Grade 1                  |
+|                   |            | 19      | 2nd Lt. Grade 2                  |
+|                   |            | 20      | 2nd Lt. Grade 3                  |
+|                   |            | 21      | 2nd Lt. Grade 4                  |
+|                   |            | 22      | 1st Lt. Grade 1                  |
+|                   |            | 23      | 1st Lt. Grade 2                  |
+|                   |            | 24      | 1st Lt. Grade 3                  |
+|                   |            | 25      | 1st Lt. Grade 4                  |
+|                   |            | 26      | 1st Lt. Grade 5                  |
+|                   |            | 27      | Captain Grade 1                  |
+|                   |            | 28      | Captain Grade 2                  |
+|                   |            | 29      | Captain Grade 3                  |
+|                   |            | 30      | Captain Grade 4                  |
+|                   |            | 31      | Captain Grade 5                  |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Mayor     | 32 – 46    | 32      | Major Grade 1                    |
+|                   |            | 33      | Major Grade 2                    |
+|                   |            | 34      | Major Grade 3                    |
+|                   |            | 35      | Major Grade 4                    |
+|                   |            | 36      | Major Grade 5                    |
+|                   |            | 37      | Lt. Colonel Grade 1              |
+|                   |            | 38      | Lt. Colonel Grade 2              |
+|                   |            | 39      | Lt. Colonel Grade 3              |
+|                   |            | 40      | Lt. Colonel Grade 4              |
+|                   |            | 41      | Lt. Colonel Grade 5              |
+|                   |            | 42      | Colonel Grade 1                  |
+|                   |            | 43      | Colonel Grade 2                  |
+|                   |            | 44      | Colonel Grade 3                  |
+|                   |            | 45      | Colonel Grade 4                  |
+|                   |            | 46      | Colonel Grade 5                  |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Bintang   | 47 – 51    | 47      | Brigadier                        |
+|                   |            | 48      | Major General                    |
+|                   |            | 49      | Lt. General                      |
+|                   |            | 50      | General                          |
+|                   |            | 51      | Commander                        |
++-------------------+------------+---------+----------------------------------+
+| Pangkat Spesial   | 0, ≥ 52    | 0       | Tidak ada rank / default         |
+|                   |            | 52+     | GM / Admin / VIP / Custom Rank   |
++-------------------+------------+---------+----------------------------------+
