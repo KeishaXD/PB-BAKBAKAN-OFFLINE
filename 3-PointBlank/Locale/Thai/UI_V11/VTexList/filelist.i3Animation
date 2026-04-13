@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<i3EngineResourceFile>
+	<Header MajorVersion="2" MinorVersion="1" ObjectCount="74" KeyObject="1"/>
+	<Object0 Class="i3UIAnimationMgr" ID="1" Name="" AnimationVer="0.0.1">
+		<Animation2DNode Count="73" Item0="2" Item1="3" Item2="4" Item3="5" Item4="6" Item5="7" Item6="8" Item7="9" Item8="10" Item9="11" Item10="12" Item11="13" Item12="14" Item13="15" Item14="16" Item15="17" Item16="18" Item17="19" Item18="20" Item19="21" Item20="22" Item21="23" Item22="24" Item23="25" Item24="26" Item25="27" Item26="28" Item27="29" Item28="30" Item29="31" Item30="32" Item31="33" Item32="34" Item33="35" Item34="36" Item35="37" Item36="38" Item37="39" Item38="40" Item39="41" Item40="42" Item41="43" Item42="44" Item43="45" Item44="46" Item45="47" Item46="48" Item47="49" Item48="50" Item49="51" Item50="52" Item51="53" Item52="54" Item53="55" Item54="56" Item55="57" Item56="58" Item57="59" Item58="60" Item59="61" Item60="62" Item61="63" Item62="64" Item63="65" Item64="66" Item65="67" Item66="68" Item67="69" Item68="70" Item69="71" Item70="72" Item71="73" Item72="74"/>
+	</Object0>
+	<Object1 Class="i3UIAnimation2DSprite" ID="2" Name="Clan_01">
+		<Node_Info Number="1" TotalLifeTime="17" SpriteCount="17"/>
+		<Sprite_0 X="10" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="68" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="126" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="184" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="242" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="300" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="358" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="416" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="474" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="532" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_10 X="590" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_11 X="648" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_12 X="706" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_13 X="764" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_14 X="822" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_15 X="880" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_16 X="938" Y="10" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object1>
+	<Object2 Class="i3UIAnimation2DSprite" ID="3" Name="Clan_02">
+		<Node_Info Number="2" TotalLifeTime="16" SpriteCount="16"/>
+		<Sprite_0 X="10" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="68" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="126" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="184" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="242" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="300" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="358" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="416" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="474" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="532" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_10 X="590" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_11 X="648" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_12 X="706" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_13 X="764" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_14 X="822" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_15 X="880" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object2>
+	<Object3 Class="i3UIAnimation2DSprite" ID="4" Name="Clan_03">
+		<Node_Info Number="3" TotalLifeTime="9.1" SpriteCount="10"/>
+		<Sprite_0 X="938" Y="68" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="10" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="68" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="126" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="184" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="242" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="300" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="358" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="416" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="474" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object3>
+	<Object4 Class="i3UIAnimation2DSprite" ID="5" Name="Clan_04">
+		<Node_Info Number="4" TotalLifeTime="2.5" SpriteCount="16"/>
+		<Sprite_0 X="590" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="648" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="706" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="764" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="822" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="880" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="938" Y="126" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="10" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="68" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="126" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_10 X="184" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_11 X="242" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_12 X="300" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_13 X="358" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_14 X="416" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_15 X="474" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="1"/>
+	</Object4>
+	<Object5 Class="i3UIAnimation2DSprite" ID="6" Name="Clan_05">
+		<Node_Info Number="5" TotalLifeTime="16" SpriteCount="16"/>
+		<Sprite_0 X="532" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="590" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="648" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="706" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="764" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="822" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="880" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="938" Y="184" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="10" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="68" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_10 X="126" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_11 X="184" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_12 X="242" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_13 X="300" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_14 X="358" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_15 X="416" Y="242" Width="52" Height="53" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+	</Object5>
+	<Object6 Class="i3UIAnimation2DSprite" ID="7" Name="Clan_06">
+		<Node_Info Number="6" TotalLifeTime="3.5" SpriteCount="16"/>
+		<Sprite_0 X="474" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_1 X="532" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_2 X="590" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_3 X="648" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_4 X="706" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_5 X="764" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_6 X="822" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_7 X="880" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_8 X="938" Y="242" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_9 X="10" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_10 X="68" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_11 X="126" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_12 X="184" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_13 X="242" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_14 X="300" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_15 X="358" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object6>
+	<Object7 Class="i3UIAnimation2DSprite" ID="8" Name="Clan_07">
+		<Node_Info Number="7" TotalLifeTime="3.6" SpriteCount="17"/>
+		<Sprite_0 X="416" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_1 X="474" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_2 X="532" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_3 X="590" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_4 X="648" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_5 X="706" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_6 X="764" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_7 X="822" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_8 X="880" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_9 X="938" Y="300" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_10 X="10" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_11 X="68" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_12 X="126" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_13 X="184" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_14 X="242" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_15 X="300" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_16 X="358" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object7>
+	<Object8 Class="i3UIAnimation2DSprite" ID="9" Name="Clan_08">
+		<Node_Info Number="8" TotalLifeTime="3.7" SpriteCount="35"/>
+		<Sprite_0 X="474" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_1 X="532" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_2 X="590" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_3 X="648" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_4 X="706" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_5 X="764" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_6 X="822" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_7 X="880" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_8 X="938" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_9 X="10" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_10 X="68" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_11 X="126" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_12 X="184" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_13 X="242" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_14 X="300" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_15 X="358" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_16 X="416" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_17 X="474" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_18 X="532" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_19 X="590" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_20 X="648" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_21 X="706" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_22 X="764" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_23 X="822" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_24 X="880" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_25 X="938" Y="416" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_26 X="10" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_27 X="68" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_28 X="126" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_29 X="184" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_30 X="242" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_31 X="300" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_32 X="358" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_33 X="416" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.02"/>
+		<Sprite_34 X="416" Y="358" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object8>
+	<Object9 Class="i3UIAnimation2DSprite" ID="10" Name="Clan_09">
+		<Node_Info Number="9" TotalLifeTime="20" SpriteCount="20"/>
+		<Sprite_0 X="474" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_1 X="532" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_2 X="590" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_3 X="648" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_4 X="706" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="1"/>
+		<Sprite_5 X="764" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_6 X="822" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_7 X="880" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_8 X="938" Y="474" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_9 X="10" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="1"/>
+		<Sprite_10 X="68" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_11 X="126" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_12 X="184" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_13 X="242" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_14 X="300" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_15 X="358" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_16 X="416" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_17 X="474" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_18 X="532" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_19 X="590" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object9>
+	<Object10 Class="i3UIAnimation2DSprite" ID="11" Name="Clan_10">
+		<Node_Info Number="10" TotalLifeTime="17" SpriteCount="17"/>
+		<Sprite_0 X="648" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_1 X="706" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_2 X="764" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_3 X="822" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_4 X="880" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_5 X="938" Y="532" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_6 X="10" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_7 X="68" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_8 X="126" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_9 X="184" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_10 X="242" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_11 X="300" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_12 X="358" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_13 X="416" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_14 X="474" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_15 X="532" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.1"/>
+		<Sprite_16 X="590" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="3"/>
+	</Object10>
+	<Object11 Class="i3UIAnimation2DSprite" ID="12" Name="Clan_11">
+		<Node_Info Number="11" TotalLifeTime="17" SpriteCount="17"/>
+		<Sprite_0 X="648" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_1 X="706" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_2 X="764" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_3 X="822" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_4 X="880" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_5 X="938" Y="590" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_6 X="10" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_7 X="68" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_8 X="126" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_9 X="184" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_10 X="242" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_11 X="300" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_12 X="358" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_13 X="416" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_14 X="474" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_15 X="532" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="0.05"/>
+		<Sprite_16 X="590" Y="648" Width="52" Height="52" ResName="Image/UV_Effect/Clan_Effect_01.tga" LifeTime="2"/>
+	</Object11>
+	<Object12 Class="i3UIAnimation2DSprite" ID="13" Name="Match_Making_01">
+		<Node_Info Number="12" TotalLifeTime="1.3" SpriteCount="10"/>
+		<Sprite_0 X="773" Y="570" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_1 X="773" Y="579" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_2 X="773" Y="588" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_3 X="773" Y="597" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_4 X="773" Y="606" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_5 X="773" Y="616" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_6 X="773" Y="625" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_7 X="773" Y="634" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_8 X="773" Y="643" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+		<Sprite_9 X="773" Y="652" Width="248" Height="7" ResName="Image/Main/img_16.tga" LifeTime="0.13"/>
+	</Object12>
+	<Object13 Class="i3UIAnimation2DSprite" ID="14" Name="Match_Making_02">
+		<Node_Info Number="13" TotalLifeTime="6.3" SpriteCount="12"/>
+		<Sprite_0 X="496" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_1 X="549" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_2 X="602" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_3 X="655" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_4 X="708" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_5 X="496" Y="760" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_6 X="496" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_7 X="549" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_8 X="602" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_9 X="655" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_10 X="708" Y="707" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_11 X="496" Y="760" Width="50" Height="50" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+	</Object13>
+	<Object14 Class="i3UIAnimation2DSprite" ID="15" Name="Match_Making_03">
+		<Node_Info Number="14" TotalLifeTime="0.8" SpriteCount="16"/>
+		<Sprite_0 X="745" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_1 X="838" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_2 X="931" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_3 X="559" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_4 X="652" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_5 X="745" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_6 X="838" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_7 X="931" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_8 X="745" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_9 X="838" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_10 X="931" Y="905" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_11 X="559" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_12 X="652" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_13 X="745" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_14 X="838" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+		<Sprite_15 X="931" Y="813" Width="90" Height="90" ResName="Image/Main/img_16.tga" LifeTime="0.05"/>
+	</Object14>
+	<Object15 Class="i3UIAnimation2DSprite" ID="16" Name="Main_Shop_Btn">
+		<Node_Info Number="15" TotalLifeTime="8" SpriteCount="8"/>
+		<Sprite_0 X="345" Y="5" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_1 X="345" Y="56" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_2 X="345" Y="107" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_3 X="345" Y="158" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_4 X="345" Y="208" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_5 X="345" Y="259" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_6 X="345" Y="310" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_7 X="345" Y="361" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+	</Object15>
+	<Object16 Class="i3UIAnimation2DSprite" ID="17" Name="Main_Shop_Btn_Over">
+		<Node_Info Number="16" TotalLifeTime="8" SpriteCount="8"/>
+		<Sprite_0 X="488" Y="5" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_1 X="488" Y="56" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_2 X="488" Y="107" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_3 X="488" Y="158" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_4 X="488" Y="208" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_5 X="488" Y="259" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_6 X="488" Y="310" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_7 X="488" Y="361" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+	</Object16>
+	<Object17 Class="i3UIAnimation2DSprite" ID="18" Name="Main_Shop_Btn_Down">
+		<Node_Info Number="17" TotalLifeTime="4" SpriteCount="8"/>
+		<Sprite_0 X="345" Y="419" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_1 X="345" Y="470" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_2 X="345" Y="521" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_3 X="345" Y="572" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_4 X="488" Y="419" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_5 X="488" Y="470" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+		<Sprite_6 X="488" Y="521" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.9"/>
+		<Sprite_7 X="488" Y="572" Width="127" Height="46" ResName="Image/Main/UI_Source_8.tga" LifeTime="0.1"/>
+	</Object17>
+	<Object18 Class="i3UIAnimation2DSprite" ID="19" Name="BattleRoyale_PlayWait">
+		<Node_Info Number="18" TotalLifeTime="1" SpriteCount="4"/>
+		<Sprite_0 X="684" Y="49" Width="34" Height="34" ResName="Image/Main/img_v02.tga" LifeTime="1"/>
+		<Sprite_1 X="722" Y="49" Width="34" Height="34" ResName="Image/Main/img_v02.tga" LifeTime="1"/>
+		<Sprite_2 X="722" Y="87" Width="34" Height="34" ResName="Image/Main/img_v02.tga" LifeTime="1"/>
+		<Sprite_3 X="684" Y="87" Width="34" Height="34" ResName="Image/Main/img_v02.tga" LifeTime="1"/>
+	</Object18>
+	<Object19 Class="i3UIAnimation2DSprite" ID="20" Name="Match_Making_04">
+		<Node_Info Number="19" TotalLifeTime="5" SpriteCount="5"/>
+		<Sprite_0 X="486" Y="2" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.04"/>
+		<Sprite_1 X="756" Y="2" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.04"/>
+		<Sprite_2 X="486" Y="120" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.04"/>
+		<Sprite_3 X="756" Y="120" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.04"/>
+		<Sprite_4 X="486" Y="238" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="3"/>
+	</Object19>
+	<Object20 Class="i3UIAnimation2DSprite" ID="21" Name="Match_Making_05">
+		<Node_Info Number="20" TotalLifeTime="3.24" SpriteCount="5"/>
+		<Sprite_0 X="486" Y="356" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.06"/>
+		<Sprite_1 X="756" Y="356" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.06"/>
+		<Sprite_2 X="486" Y="474" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.06"/>
+		<Sprite_3 X="756" Y="474" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="0.06"/>
+		<Sprite_4 X="756" Y="238" Width="266" Height="114" ResName="Image/Main/img_17.tga" LifeTime="3"/>
+	</Object20>
+	<Object21 Class="i3UIAnimation2DSprite" ID="22" Name="Respawn_Green">
+		<Node_Info Number="21" TotalLifeTime="1.8" SpriteCount="9"/>
+		<Sprite_0 X="319" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_1 X="363" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_2 X="407" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_3 X="451" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_4 X="495" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_5 X="319" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_6 X="363" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_7 X="407" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_8 X="451" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+	</Object21>
+	<Object22 Class="i3UIAnimation2DSprite" ID="23" Name="Respawn_Yellow">
+		<Node_Info Number="22" TotalLifeTime="1.8" SpriteCount="9"/>
+		<Sprite_0 X="319" Y="938" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_1 X="363" Y="938" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_2 X="407" Y="938" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_3 X="451" Y="938" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_4 X="495" Y="938" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_5 X="319" Y="955" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_6 X="363" Y="955" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_7 X="407" Y="955" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_8 X="451" Y="955" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+	</Object22>
+	<Object23 Class="i3UIAnimation2DSprite" ID="24" Name="Respawn_Orange">
+		<Node_Info Number="23" TotalLifeTime="1.8" SpriteCount="9"/>
+		<Sprite_0 X="319" Y="972" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_1 X="363" Y="972" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_2 X="407" Y="972" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_3 X="451" Y="972" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_4 X="495" Y="972" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_5 X="319" Y="989" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_6 X="363" Y="989" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_7 X="407" Y="989" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_8 X="451" Y="989" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+	</Object23>
+	<Object24 Class="i3UIAnimation2DSprite" ID="25" Name="Respawn_Red">
+		<Node_Info Number="24" TotalLifeTime="1.8" SpriteCount="9"/>
+		<Sprite_0 X="539" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_1 X="583" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_2 X="627" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_3 X="671" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_4 X="715" Y="904" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_5 X="539" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_6 X="583" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_7 X="627" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+		<Sprite_8 X="671" Y="921" Width="34" Height="16" ResName="Image/Main/img_v02.tga" LifeTime="0.1"/>
+	</Object24>
+	<Object25 Class="i3UIAnimation2DSprite" ID="26" Name="Free_Item">
+		<Node_Info Number="25" TotalLifeTime="11.2" SpriteCount="12"/>
+		<Sprite_0 X="4" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_1 X="62" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_2 X="120" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_3 X="178" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_4 X="236" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_5 X="294" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_6 X="352" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_7 X="410" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_8 X="468" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_9 X="526" Y="163" Width="55" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_10 X="584" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+		<Sprite_11 X="640" Y="163" Width="54" Height="90" ResName="Image/Main/text_04.tga" LifeTime="0.2"/>
+	</Object25>
+	<Object26 Class="i3UIAnimation2DSprite" ID="27" Name="NameCard_001">
+		<Node_Info Number="26" TotalLifeTime="10" SpriteCount="10"/>
+		<Sprite_0 X="9" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_1 X="9" Y="66" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_2 X="9" Y="123" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_3 X="9" Y="181" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_4 X="9" Y="239" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_5 X="9" Y="297" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="2"/>
+		<Sprite_6 X="9" Y="354" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_7 X="9" Y="412" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_8 X="9" Y="470" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+		<Sprite_9 X="9" Y="527" Width="318" Height="49" ResName="Image/NameCard/NameCard_001a.tga" LifeTime="0.15"/>
+	</Object26>
+	<Object27 Class="i3UIAnimation2DSprite" ID="28" Name="Clan_Buff_001">
+		<Node_Info Number="27" TotalLifeTime="4" SpriteCount="4"/>
+		<Sprite_0 X="750" Y="232" Width="24" Height="24" ResName="Image/Main/text_04.tga" LifeTime="0.4"/>
+		<Sprite_1 X="779" Y="232" Width="24" Height="24" ResName="Image/Main/text_04.tga" LifeTime="0.4"/>
+		<Sprite_2 X="808" Y="232" Width="24" Height="24" ResName="Image/Main/text_04.tga" LifeTime="0.4"/>
+		<Sprite_3 X="837" Y="232" Width="24" Height="24" ResName="Image/Main/text_04.tga" LifeTime="0.4"/>
+	</Object27>
+	<Object28 Class="i3UIAnimation2DSprite" ID="29" Name="Event_Portal_timeicon_01">
+		<Node_Info Number="28" TotalLifeTime="1.76" SpriteCount="16"/>
+		<Sprite_0 X="12" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.2"/>
+		<Sprite_1 X="50" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_2 X="88" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_3 X="126" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_4 X="164" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.2"/>
+		<Sprite_5 X="278" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_6 X="316" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_7 X="354" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_8 X="392" Y="13" Width="36" Height="35" ResName="Image/Main/img_v03.tga" LifeTime="0.2"/>
+		<Sprite_9 X="506" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_10 X="544" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_11 X="582" Y="13" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_12 X="619" Y="13" Width="37" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.2"/>
+		<Sprite_13 X="88" Y="51" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_14 X="126" Y="51" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+		<Sprite_15 X="164" Y="51" Width="36" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.08"/>
+	</Object28>
+	<Object29 Class="i3UIAnimation2DSprite" ID="30" Name="Event_Portal_timeicon_02">
+		<Node_Info Number="29" TotalLifeTime="4" SpriteCount="8"/>
+		<Sprite_0 X="12" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.9"/>
+		<Sprite_1 X="50" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.1"/>
+		<Sprite_2 X="88" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.9"/>
+		<Sprite_3 X="126" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.1"/>
+		<Sprite_4 X="164" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.9"/>
+		<Sprite_5 X="202" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.1"/>
+		<Sprite_6 X="240" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.9"/>
+		<Sprite_7 X="278" Y="13" Width="34" Height="34" ResName="Image/Main/img_v03.tga" LifeTime="0.1"/>
+	</Object29>
+	<Object30 Class="i3UIAnimation2DSprite" ID="31" Name="ClanUp_proani_001">
+		<Node_Info Number="30" TotalLifeTime="2.5" SpriteCount="5"/>
+		<Sprite_0 X="961" Y="412" Width="59" Height="20" ResName="Image/Main/text_04.tga" LifeTime="0.5"/>
+		<Sprite_1 X="961" Y="388" Width="59" Height="20" ResName="Image/Main/text_04.tga" LifeTime="0.5"/>
+		<Sprite_2 X="961" Y="364" Width="59" Height="20" ResName="Image/Main/text_04.tga" LifeTime="0.5"/>
+		<Sprite_3 X="961" Y="340" Width="59" Height="20" ResName="Image/Main/text_04.tga" LifeTime="0.5"/>
+		<Sprite_4 X="961" Y="316" Width="59" Height="20" ResName="Image/Main/text_04.tga" LifeTime="0.5"/>
+	</Object30>
+	<Object31 Class="i3UIAnimation2DSprite" ID="32" Name="NameCard_Snow">
+		<Node_Info Number="31" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_1 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_2 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_3 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_4 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_5 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_6 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+	</Object31>
+	<Object32 Class="i3UIAnimation2DSprite" ID="33" Name="NameCard_Flower">
+		<Node_Info Number="32" TotalLifeTime="10" SpriteCount="10"/>
+		<Sprite_0 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_7 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_8 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_9 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+	</Object32>
+	<Object33 Class="i3UIAnimation2DSprite" ID="34" Name="NameCard_Snow2">
+		<Node_Info Number="33" TotalLifeTime="6" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+	</Object33>
+	<Object34 Class="i3UIAnimation2DSprite" ID="35" Name="NameCard_Fire01">
+		<Node_Info Number="34" TotalLifeTime="0.8" SpriteCount="8"/>
+		<Sprite_0 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_1 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_2 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_3 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_4 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_5 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_6 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_7 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+	</Object34>
+	<Object35 Class="i3UIAnimation2DSprite" ID="36" Name="NameCard_Bullet01">
+		<Node_Info Number="35" TotalLifeTime="0.593" SpriteCount="8"/>
+		<Sprite_0 X="9" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.03"/>
+		<Sprite_1 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.03"/>
+		<Sprite_2 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.05"/>
+		<Sprite_3 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.053"/>
+		<Sprite_4 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.05"/>
+		<Sprite_5 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.05"/>
+		<Sprite_6 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.03"/>
+		<Sprite_7 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+	</Object35>
+	<Object36 Class="i3UIAnimation2DSprite" ID="37" Name="NameCard_Eye01">
+		<Node_Info Number="36" TotalLifeTime="1.6" SpriteCount="5"/>
+		<Sprite_0 X="337" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_1 X="665" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.1"/>
+		<Sprite_2 X="9" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_001.tga" LifeTime="1"/>
+	</Object36>
+	<Object37 Class="i3UIAnimation2DSprite" ID="38" Name="NameCard_night">
+		<Node_Info Number="37" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_1 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_2 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_3 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_4 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_5 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_6 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="2"/>
+	</Object37>
+	<Object38 Class="i3UIAnimation2DSprite" ID="39" Name="NameCard_geometric01">
+		<Node_Info Number="38" TotalLifeTime="1.35" SpriteCount="8"/>
+		<Sprite_0 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+		<Sprite_1 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+		<Sprite_2 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_3 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_4 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_5 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+		<Sprite_6 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+		<Sprite_7 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.5"/>
+	</Object38>
+	<Object39 Class="i3UIAnimation2DSprite" ID="40" Name="NameCard_geometric02">
+		<Node_Info Number="39" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_1 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_2 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_3 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_4 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_5 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_6 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+	</Object39>
+	<Object40 Class="i3UIAnimation2DSprite" ID="41" Name="NameCard_geometric03">
+		<Node_Info Number="40" TotalLifeTime="1.05" SpriteCount="7"/>
+		<Sprite_0 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.2"/>
+	</Object40>
+	<Object41 Class="i3UIAnimation2DSprite" ID="42" Name="NameCard_lightning">
+		<Node_Info Number="41" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_1 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_2 X="337" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_3 X="665" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_4 X="9" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.1"/>
+		<Sprite_5 X="337" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.15"/>
+		<Sprite_6 X="665" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_002.tga" LifeTime="0.3"/>
+	</Object41>
+	<Object42 Class="i3UIAnimation2DSprite" ID="43" Name="NameCard_rabbit">
+		<Node_Info Number="42" TotalLifeTime="1.85" SpriteCount="7"/>
+		<Sprite_0 X="9" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_1 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_2 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_3 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_4 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_5 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+		<Sprite_6 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.25"/>
+	</Object42>
+	<Object43 Class="i3UIAnimation2DSprite" ID="44" Name="NameCard_bear">
+		<Node_Info Number="43" TotalLifeTime="1.8" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+		<Sprite_1 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+		<Sprite_2 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+		<Sprite_3 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+		<Sprite_4 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+		<Sprite_5 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.3"/>
+	</Object43>
+	<Object44 Class="i3UIAnimation2DSprite" ID="45" Name="NameCard_cat">
+		<Node_Info Number="44" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.2"/>
+	</Object44>
+	<Object45 Class="i3UIAnimation2DSprite" ID="46" Name="NameCard_Heart_01">
+		<Node_Info Number="45" TotalLifeTime="11" SpriteCount="11"/>
+		<Sprite_0 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_1 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_2 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_3 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_4 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_5 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_6 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_7 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_8 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_9 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_10 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+	</Object45>
+	<Object46 Class="i3UIAnimation2DSprite" ID="47" Name="NameCard_Heart_02">
+		<Node_Info Number="46" TotalLifeTime="11" SpriteCount="11"/>
+		<Sprite_0 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_1 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_2 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_3 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_4 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_5 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_6 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_7 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_8 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_9 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_10 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+	</Object46>
+	<Object47 Class="i3UIAnimation2DSprite" ID="48" Name="NameCard_Heart_03">
+		<Node_Info Number="47" TotalLifeTime="1.428" SpriteCount="11"/>
+		<Sprite_0 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_1 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_2 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_3 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_4 X="337" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_5 X="665" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_6 X="9" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_7 X="337" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_8 X="665" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_003.tga" LifeTime="0.13"/>
+		<Sprite_9 X="9" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.13"/>
+		<Sprite_10 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.128"/>
+	</Object47>
+	<Object48 Class="i3UIAnimation2DSprite" ID="49" Name="NameCard_NoName_01">
+		<Node_Info Number="48" TotalLifeTime="10" SpriteCount="10"/>
+		<Sprite_0 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.3"/>
+		<Sprite_1 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_2 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_3 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_4 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_5 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_6 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_7 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_8 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+		<Sprite_9 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.05"/>
+	</Object48>
+	<Object49 Class="i3UIAnimation2DSprite" ID="50" Name="NameCard_elephant">
+		<Node_Info Number="49" TotalLifeTime="7" SpriteCount="7"/>
+		<Sprite_0 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_1 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_2 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_3 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_4 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_5 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_6 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+	</Object49>
+	<Object50 Class="i3UIAnimation2DSprite" ID="51" Name="NameCard_puppy">
+		<Node_Info Number="50" TotalLifeTime="6" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.25"/>
+		<Sprite_1 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.25"/>
+		<Sprite_4 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.2"/>
+	</Object50>
+	<Object51 Class="i3UIAnimation2DSprite" ID="52" Name="NameCard_ghost_01">
+		<Node_Info Number="51" TotalLifeTime="3" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_1 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_2 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_3 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_4 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_5 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+	</Object51>
+	<Object52 Class="i3UIAnimation2DSprite" ID="53" Name="NameCard_dust_01">
+		<Node_Info Number="52" TotalLifeTime="0.6" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_1 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_2 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_3 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_4 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_5 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+	</Object52>
+	<Object53 Class="i3UIAnimation2DSprite" ID="54" Name="NameCard_dust_02">
+		<Node_Info Number="53" TotalLifeTime="0.9" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_1 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_2 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_3 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_4 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+		<Sprite_5 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.15"/>
+	</Object53>
+	<Object54 Class="i3UIAnimation2DSprite" ID="55" Name="NameCard_sparkle_01">
+		<Node_Info Number="54" TotalLifeTime="1.312" SpriteCount="13"/>
+		<Sprite_0 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_1 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_2 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_3 X="337" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_4 X="665" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_5 X="9" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_6 X="337" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_7 X="664" Y="952" Width="318" Height="49" ResName="Image/NameCard/NameCard_004.tga" LifeTime="0.1"/>
+		<Sprite_8 X="8" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_9 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.102"/>
+		<Sprite_10 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.104"/>
+		<Sprite_11 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.102"/>
+		<Sprite_12 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.104"/>
+	</Object54>
+	<Object55 Class="i3UIAnimation2DSprite" ID="56" Name="NameCard_sparkle_02">
+		<Node_Info Number="55" TotalLifeTime="1.5" SpriteCount="11"/>
+		<Sprite_0 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_1 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_2 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_3 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_4 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_5 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_6 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_7 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_8 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_9 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_10 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+	</Object55>
+	<Object56 Class="i3UIAnimation2DSprite" ID="57" Name="NameCard_sparkle_03">
+		<Node_Info Number="56" TotalLifeTime="1.05" SpriteCount="7"/>
+		<Sprite_0 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_1 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_2 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_3 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_4 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_5 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_6 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+	</Object56>
+	<Object57 Class="i3UIAnimation2DSprite" ID="58" Name="NameCard_sparkle_04">
+		<Node_Info Number="57" TotalLifeTime="1.9" SpriteCount="11"/>
+		<Sprite_0 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.2"/>
+		<Sprite_1 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.2"/>
+		<Sprite_2 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.2"/>
+		<Sprite_3 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_4 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_5 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_6 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_7 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_8 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.15"/>
+		<Sprite_9 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.2"/>
+		<Sprite_10 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.2"/>
+	</Object57>
+	<Object58 Class="i3UIAnimation2DSprite" ID="59" Name="NameCard_sparkle_05">
+		<Node_Info Number="58" TotalLifeTime="2.05" SpriteCount="12"/>
+		<Sprite_0 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.4"/>
+		<Sprite_1 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_2 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_3 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_4 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_5 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_6 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_7 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_8 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_9 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_10 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+		<Sprite_11 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_005.tga" LifeTime="0.1"/>
+	</Object58>
+	<Object59 Class="i3UIAnimation2DSprite" ID="60" Name="NameCard_sunrise">
+		<Node_Info Number="59" TotalLifeTime="2.2" SpriteCount="8"/>
+		<Sprite_0 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.15"/>
+		<Sprite_1 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.15"/>
+		<Sprite_2 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.15"/>
+		<Sprite_3 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.2"/>
+		<Sprite_7 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="1"/>
+	</Object59>
+	<Object60 Class="i3UIAnimation2DSprite" ID="61" Name="NameCard_wolf">
+		<Node_Info Number="60" TotalLifeTime="8.15" SpriteCount="9"/>
+		<Sprite_0 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_1 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_2 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_3 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_4 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_5 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_6 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_7 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.14"/>
+		<Sprite_8 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="1.2"/>
+	</Object60>
+	<Object61 Class="i3UIAnimation2DSprite" ID="62" Name="NameCard_platinum">
+		<Node_Info Number="61" TotalLifeTime="9" SpriteCount="9"/>
+		<Sprite_0 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_1 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_2 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_3 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_4 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_5 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_6 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_7 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_8 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+	</Object61>
+	<Object62 Class="i3UIAnimation2DSprite" ID="63" Name="NameCard_gold">
+		<Node_Info Number="62" TotalLifeTime="1.1" SpriteCount="11"/>
+		<Sprite_0 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_1 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_2 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_3 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_4 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_5 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_6 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_7 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_8 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_9 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+		<Sprite_10 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.1"/>
+	</Object62>
+	<Object63 Class="i3UIAnimation2DSprite" ID="64" Name="NameCard_welcome">
+		<Node_Info Number="63" TotalLifeTime="10" SpriteCount="10"/>
+		<Sprite_0 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_1 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_2 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_3 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_4 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_5 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_6 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_7 X="9" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_8 X="337" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+		<Sprite_9 X="665" Y="893" Width="318" Height="49" ResName="Image/NameCard/NameCard_006.tga" LifeTime="0.18"/>
+	</Object63>
+	<Object64 Class="i3UIAnimation2DSprite" ID="65" Name="NameCard_BattleCup">
+		<Node_Info Number="64" TotalLifeTime="6" SpriteCount="6"/>
+		<Sprite_0 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+	</Object64>
+	<Object65 Class="i3UIAnimation2DSprite" ID="66" Name="Out_Line_Effect">
+		<Node_Info Number="65" TotalLifeTime="11" SpriteCount="11"/>
+		<Sprite_0 X="490" Y="596" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_1 X="490" Y="639" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_2 X="490" Y="682" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_3 X="490" Y="725" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_4 X="490" Y="768" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_5 X="490" Y="811" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_6 X="756" Y="596" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_7 X="756" Y="639" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_8 X="756" Y="682" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_9 X="756" Y="725" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+		<Sprite_10 X="756" Y="768" Width="264" Height="40" ResName="Image/Main/img_17.tga" LifeTime="0.1"/>
+	</Object65>
+	<Object66 Class="i3UIAnimation2DSprite" ID="67" Name="NameCard_10thAnni01">
+		<Node_Info Number="66" TotalLifeTime="9" SpriteCount="9"/>
+		<Sprite_0 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_7 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_8 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+	</Object66>
+	<Object67 Class="i3UIAnimation2DSprite" ID="68" Name="NameCard_10thAnni02">
+		<Node_Info Number="67" TotalLifeTime="10" SpriteCount="10"/>
+		<Sprite_0 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_1 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_2 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_3 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_4 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_5 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_6 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_7 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_8 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+		<Sprite_9 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.2"/>
+	</Object67>
+	<Object68 Class="i3UIAnimation2DSprite" ID="69" Name="Result_Effect01">
+		<Node_Info Number="68" TotalLifeTime="0.55" SpriteCount="9"/>
+		<Sprite_0 X="10" Y="10" Width="220" Height="220" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_1 X="241" Y="9" Width="221" Height="221" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_2 X="472" Y="10" Width="220" Height="220" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_3 X="703" Y="9" Width="220" Height="221" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_4 X="10" Y="238" Width="220" Height="220" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_5 X="241" Y="237" Width="220" Height="221" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_6 X="472" Y="238" Width="220" Height="220" ResName="Image/Main/img_v04.tga" LifeTime="0.05"/>
+		<Sprite_7 X="703" Y="237" Width="220" Height="221" ResName="Image/Main/img_v04.tga" LifeTime="0.1"/>
+		<Sprite_8 X="10" Y="466" Width="220" Height="220" ResName="Image/Main/img_v04.tga" LifeTime="0.1"/>
+	</Object68>
+	<Object69 Class="i3UIAnimation2DSprite" ID="70" Name="NameCard_independence">
+		<Node_Info Number="69" TotalLifeTime="1.5" SpriteCount="10"/>
+		<Sprite_0 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_1 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_2 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_3 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_4 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_5 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_6 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_7 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_8 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_9 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="2"/>
+	</Object69>
+	<Object70 Class="i3UIAnimation2DSprite" ID="71" Name="NameCard_PBNC2019">
+		<Node_Info Number="70" TotalLifeTime="6" SpriteCount="6"/>
+		<Sprite_0 X="9" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_1 X="337" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_2 X="665" Y="775" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_3 X="9" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_4 X="337" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+		<Sprite_5 X="665" Y="834" Width="318" Height="49" ResName="Image/NameCard/NameCard_007.tga" LifeTime="0.15"/>
+	</Object70>
+	<Object71 Class="i3UIAnimation2DSprite" ID="72" Name="NameCard_BattleCup01">
+		<Node_Info Number="71" TotalLifeTime="12" SpriteCount="12"/>
+		<Sprite_0 X="9" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_1 X="337" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_2 X="665" Y="8" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_3 X="9" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_4 X="337" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_5 X="665" Y="67" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_6 X="9" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.08"/>
+		<Sprite_7 X="337" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_8 X="665" Y="126" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_9 X="9" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_10 X="337" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_11 X="665" Y="185" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+	</Object71>
+	<Object72 Class="i3UIAnimation2DSprite" ID="73" Name="NameCard_BattleCup02">
+		<Node_Info Number="72" TotalLifeTime="11" SpriteCount="11"/>
+		<Sprite_0 X="9" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_1 X="337" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_2 X="665" Y="244" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_3 X="9" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_4 X="337" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_5 X="665" Y="303" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_6 X="9" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_7 X="337" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_8 X="665" Y="362" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_9 X="9" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_10 X="337" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+	</Object72>
+	<Object73 Class="i3UIAnimation2DSprite" ID="74" Name="NameCard_PH_9th">
+		<Node_Info Number="73" TotalLifeTime="16" SpriteCount="16"/>
+		<Sprite_0 X="665" Y="421" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_1 X="9" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_2 X="337" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_3 X="665" Y="480" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_4 X="9" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_5 X="337" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_6 X="665" Y="539" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_7 X="9" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_8 X="337" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_9 X="665" Y="598" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.1"/>
+		<Sprite_10 X="9" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_11 X="337" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_12 X="665" Y="657" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_13 X="9" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_14 X="337" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="0.2"/>
+		<Sprite_15 X="665" Y="716" Width="318" Height="49" ResName="Image/NameCard/NameCard_008.tga" LifeTime="1"/>
+	</Object73>
+</i3EngineResourceFile>
+

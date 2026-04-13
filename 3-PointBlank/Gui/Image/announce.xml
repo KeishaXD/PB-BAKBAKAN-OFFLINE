@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<ANNOUNCE>	
+	<IMAGE name="공지1" URL="" path="Gui/Image/notice_01.i3i" scroll="0"/>
+	<IMAGE name="공지1" URL="" path="Gui/Image/notice_02.i3i" scroll="0"/>
+</ANNOUNCE>

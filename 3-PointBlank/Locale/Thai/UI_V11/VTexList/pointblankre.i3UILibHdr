@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<i3EngineResourceFile>
+    <Header MajorVersion="2" MinorVersion="1" ObjectCount="1" KeyObject="1"/>
+    <Object0 Class="i3UILibHdr" ID="1" Name="PointBlankRe.i3UILibHdr" Version="2" VTexture="PointBlankRe.i3VTexList" Script="VTexList/Root.lua"/>
+</i3EngineResourceFile>
