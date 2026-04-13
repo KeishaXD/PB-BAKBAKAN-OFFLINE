@@ -1,0 +1,30 @@
+[Default]
+Name = "FONT_COMMON"
+RelativePath = 1
+BatchMode = 0
+TextDir = "E:/Mobile/Mobile_ArchLoad/Media/E:/Mobile/Mobile_ArchLord/Media/Font/Common"
+TextPath = "Font/Hud_Small_Font/Hud_Small_Font.txt"
+OutDir = "Font/Hud_Small_Font"
+
+[Font]
+CharSet = 0
+ClipPrecision = 2
+Escapement = 0
+FaceName = "±¼¸²"
+Height = -19
+Italic = 0
+Orientation = 0
+OutPrecision = 3
+PitchAndFamily = 50
+Quality = 0
+StrikeOut = 0
+Underline = 0
+Weight = 700
+Width = 0
+
+[Image]
+Format = 2
+Width = 256
+Height = 256
+SpaceX = 18
+SpaceY = 18
