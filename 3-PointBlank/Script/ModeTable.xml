@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<MODE_TABLE>
+	<None File="Script\ModeLua\LuaMode.lua"/>
+	<DeathMatch File="Script\ModeLua\LuaMode_Deathmatch.lua"/>
+	<Bomb File="Script\ModeLua\LuaMode_Bomb.lua"/>
+	<Destroy File="Script\ModeLua\LuaMode_Destroy.lua"/>
+	<Annihilation File="Script\ModeLua\LuaMode_Annihilation.lua"/>
+	<Defence File="Script\ModeLua\LuaMode_Defense.lua"/>
+	<SuddenDeath File=""/>
+	<Escape File=""/>
+	<HeadHunter File=""/>
+	<HeadKiller File=""/>
+	<Tutorial File="Script\ModeLua\LuaMode_Training.lua"/>
+	<Domination File="Script\ModeLua\Domination\LuaMode_Domination_CommonDef.lua"/>
+	<CrossCount File=""/>
+</MODE_TABLE>

@@ -1,0 +1,22 @@
+-- 라운드 시간이 종료됐을떄 호출되는 함수
+function	OnRoundTimeOut_D1E()
+	FinishRound( TEAM["BOTH"], END_TYPE["TIMEOUT"] );
+end
+
+DAY_WAVE_FUNCTION_D1E = {
+	nil,	--  1.PRESTARTROUNDFUNCTION
+	nil,		--  2.STARTROUNDFUNCTION
+	nil,					--  3.BATTLEUPDATEFUNCTION
+	nil,					--  4.ENDROUNDFUNCTION
+	OnRoundTimeOut_D1E,		--  5.ROUNDTIMEOUTFUNCTION
+	nil,					--  6.TIMEOUTFUNCTION
+	nil,					--  7.INSTALLFUNCTION
+	nil,					--  8.UNINSTALLFUNCTION
+	nil,					--  9.USEFUNCTION
+	nil,					-- 10.DAMAGEOBJECTFUNCTION
+	nil,					-- 11.DESTROYOBJECTFUNCTION
+	nil,					-- 12.ENTERTRIGGERFUNCTION
+	nil,					-- 13.LEAVETRIGGERFUNCTION
+	nil,						-- 14.KEYPROCFUNCTION
+	nil,					-- 15.ANNIHILATEAIGROUPFUNCTION
+}
