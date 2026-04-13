@@ -1,0 +1,13 @@
+
+███╗   ███╗██╗   ██╗    ██████╗ ██╗    ██╗██████╗ 
+████╗ ████║██║   ██║    ██╔══██╗██║    ██║██╔══██╗
+██╔████╔██║██║   ██║    ██████╔╝██║ █╗ ██║██████╔╝
+██║╚██╔╝██║██║   ██║    ██╔═══╝ ██║███╗██║██╔══██╗
+██║ ╚═╝ ██║╚██████╔╝    ██║     ╚███╔███╔╝██║  ██║
+╚═╝     ╚═╝ ╚═════╝     ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝
+                                 M-U PWR
+                        Build Date 31/07/2022 21:48
+
+22:57:39 [M|U] Login Active. [127.0.0.1:39190]
+22:58:11 [Error] PROTOCOL_BASE_GET_CHARA_INFO_ACK: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PointBlank.Auth.Network.ServerPacket.PROTOCOL_BASE_GET_CHARA_INFO_ACK.write()
