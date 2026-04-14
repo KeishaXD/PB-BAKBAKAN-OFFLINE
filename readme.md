@@ -30,14 +30,16 @@ Project ini dibuat untuk tujuan **testing, pembelajaran, dan nostalgia bermain P
 
 ## 📂 Struktur Folder
 
+```
 PB-BAKBAKAN-OFFLINE
 │
 ├── 1-PostgreSQL/
 ├── 2-Server/
 ├── 3-PointBlank/
 ├── 4-Navicat 17.3.0 (x64)/
-├── 5-PointBlankPortable.bat 
+├── 5-PointBlankPortable.bat
 └── README.md
+```
 
 
 ---
