@@ -46,15 +46,13 @@ PB-BAKBAKAN-OFFLINE
 
 ## 🚀 Cara Menjalankan
 
-1. Download repository ini: git clone https://github.com/KeishaXD/PB-BAKBAKAN-OFFLINE.git atau download dalam bentuk **ZIP**.
+1. Download file di release (Partial download) atau di link berikut [Gdrive(Full Download)](https://drive.google.com/file/url)
 
-2. Extract file jika menggunakan ZIP.
+2. Extract file jika menggunakan ZIP, dan untuk partial ekstrak file pertama saja (dan pastikan berada di satu folder yang sama)
 
-3. Jalankan server dengan file: StartServer.bat
+3. Jalankan server dengan file: ''' PointBlankPortable.bat '''
 
 4. Tunggu sampai semua service server berjalan.
-
-5. Jalankan client **Point Blank** dan login ke server lokal.
 
 ---
 
@@ -84,8 +82,6 @@ PB-BAKBAKAN-OFFLINE
 ## 📜 Disclaimer
 
 Project ini **tidak berafiliasi dengan Zepetto atau publisher resmi Point Blank**.
-
-Semua konten hanya digunakan untuk **tujuan pembelajaran, testing, dan arsip komunitas**.
 
 ---
 
