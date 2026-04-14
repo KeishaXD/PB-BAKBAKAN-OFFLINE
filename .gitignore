@@ -1,0 +1,15 @@
+# PostgreSQL
+1-PostgreSQL/Data/data/
+
+# PostgreSQL runtime
+1-PostgreSQL/Data/PortableApps.comLauncherRuntimeData-PostgreSQLPortable.ini
+
+# Server Logs
+2-Server/Logs/
+
+# Navicat
+4-Navicat*/
+
+# temp files
+*.log
+*.tmp
