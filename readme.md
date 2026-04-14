@@ -50,7 +50,7 @@ PB-BAKBAKAN-OFFLINE
 
 2. Extract file jika menggunakan ZIP, dan untuk partial ekstrak file pertama saja (dan pastikan berada di satu folder yang sama)
 
-3. Jalankan server dengan file: ''' PointBlankPortable.bat '''
+3. Jalankan server dengan file: ``` PointBlankPortable.bat ```
 
 4. Tunggu sampai semua service server berjalan.
 
