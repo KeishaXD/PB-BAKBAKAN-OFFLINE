@@ -46,7 +46,7 @@ PB-BAKBAKAN-OFFLINE
 
 ## 🚀 Cara Menjalankan
 
-1. Download file di release (Partial download) atau di link berikut [Gdrive(Full Download)](https://drive.google.com/file/url)
+1. Download file di [Release (Partial Download)](https://github.com/KeishaXD/PB-BAKBAKAN-OFFLINE/releases/tag/PointBlankOffline) atau di link berikut [Gdrive (Full Download)](https://drive.google.com/file/d/1GKHo7UrCiVamz5ZhrkB9_ReJu1NsHJ5k/view?usp=drive_link)
 
 2. Extract file jika menggunakan ZIP, dan untuk partial ekstrak file pertama saja (dan pastikan berada di satu folder yang sama)
 
