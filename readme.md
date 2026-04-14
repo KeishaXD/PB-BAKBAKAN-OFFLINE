@@ -10,9 +10,6 @@ Project ini dibuat untuk tujuan **testing, pembelajaran, dan nostalgia bermain P
 
 - Menjalankan server Point Blank secara **offline**
 - Script kontrol server sederhana
-- Mode permainan:
-  - Practice
-  - Zombie Mode
 - Tidak membutuhkan koneksi internet
 - Mudah dijalankan melalui file `.bat`
 
